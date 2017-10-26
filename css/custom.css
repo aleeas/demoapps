@@ -110,7 +110,7 @@
 }
 .card.card-mm{
       margin: 14px 14px 14px 27px;
-      max-width: 255px;
+      max-width: 85%;
 }
 
 .clearfix:after {
